@@ -81,8 +81,8 @@ def plot_data():
 
     close_df.plot(ax=ax, linewidth=2)
     
-    ax.set_title(f'Close Prices of Stocks {close_df.index.min().strftime('%Y-%m-%d')
-                 } to {close_df.index.max().strftime('%Y-%m-%d')}',
+    ax.set_title(f"Close Prices of Stocks {close_df.index.min().strftime('%Y-%m-%d')} "
+                 f"to {close_df.index.max().strftime('%Y-%m-%d')}",
               fontsize=16, fontweight='bold', pad=15) 
 
     ax.set_xlabel('Date', fontsize=14, fontweight='bold')
