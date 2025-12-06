@@ -18,7 +18,7 @@ The Lecturer for this Module is Ian McLogughlin (email: ian.mcloughlin@atu.ie)
 
 ## Technologies 
 - Python
-- Git & GitHub & GitHub Actions
+- Git, GitHub & GitHub Actions
 
 ## Table of Contents
 - Problem 1: Data from yfinance 
