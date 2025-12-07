@@ -31,7 +31,7 @@ def get_data(tickers=None, period='5d', interval='1h', save_dir='data'):
         tickers = ['META','AAPL','AMZN','NFLX','GOOG']  # default to FAANG stocks
     
     # download the data
-    df = yf.download(tickers=tickers, period=period, interval=interval)
+    df = yf.download(tickers=tickers, period=period, interval=interval, auto_adjust=True)
 
     # save the dataframe to a csv file titled 'YYYYMMDD-HHmmss.csv'
     # in a data folder (note name of file should be the creation date and time)
