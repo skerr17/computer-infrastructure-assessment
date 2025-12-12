@@ -3,7 +3,7 @@
 By Stephen Kerr
 
 ## Purpose of this Repository 
-This Repository contains my sumission for the assessments for the Module Computer Infrastructure for my HDIP in Computing and Data Analytics. 
+This Repository contains my submission for the assessment for the Module Computer Infrastructure for my HDIP in Computing and Data Analytics. 
 
 The purpose of this assessment is to allow me to demonstrate my achievement of the module learning outcomes.  
 
@@ -14,7 +14,7 @@ The aim of the **Computer Infrastructure** module is to enable students to demon
 
 
 See the documentation [here](https://github.com/ianmcloughlin/computer-infrastructure/blob/main/README.md).   
-The Lecturer for this Module is Ian McLogughlin (email: ian.mcloughlin@atu.ie)
+The Lecturer for this Module is Ian McLoughlin (email: ian.mcloughlin@atu.ie)
 
 ## Technologies 
 - Python
@@ -25,6 +25,28 @@ The Lecturer for this Module is Ian McLogughlin (email: ian.mcloughlin@atu.ie)
 - Problem 2: Plotting Data
 - Problem 3: Script
 - Problem 4: Automation
+
+## How to Run
+1. Clone the repository 
+```bash
+git clone https://github.com/skerr17/computer-infrastructure-assessment.git
+cd computer-infrastructure-assessment
+```
+
+2. Install the required Python packages
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the script
+```bash
+./faang.py
+```
+
+4. Run the Python Notebook
+```bash
+jupyter notebook problems.ipynb
+```
 
 
 ## Assessment Links
