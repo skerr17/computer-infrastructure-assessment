@@ -3,9 +3,9 @@
 By Stephen Kerr
 
 ## Purpose of this Repository 
-This Repository contains my submission for the assessment for the Module Computer Infrastructure for my HDIP in Computing and Data Analytics. 
+This repository contains my submission for the assessment for the  Computer Infrastructure module as part of my HDIP in Computing and Data Analytics. 
 
-The purpose of this assessment is to allow me to demonstrate my achievement of the module learning outcomes.  
+The purpose of this assessment is to demonstrate my achievement of the module learning outcomes.  
 
 The aim of the **Computer Infrastructure** module is to enable students to demonstrate their ability to:
 >1. Use, configure, and script in a command line interface environment.
