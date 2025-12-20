@@ -21,10 +21,15 @@ The Lecturer for this Module is Ian McLoughlin (email: ian.mcloughlin@atu.ie)
 - Git, GitHub & GitHub Actions
 
 ## Table of Contents
-- Problem 1: Data from yfinance 
-- Problem 2: Plotting Data
-- Problem 3: Script
-- Problem 4: Automation
+- `problem.ipynb` -> A jupeter notebook that contains the following **Assessment Problems**: 
+    - Problem 1: Data from yfinance 
+    - Problem 2: Plotting Data
+    - Problem 3: Script
+    - Problem 4: Automation
+
+- `data` -> A directory where the stock data imported from Yahoo Finance using the `yfinance` is saved.
+
+- `plots` -> A directory where the plots created from the stock data is saved.
 
 ## How to Run
 1. Clone the repository 
