@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 4. Run the Python Notebook
 ```bash
-jupyter notebook problems.ipynb
+jupyter notebook problem.ipynb
 ```
 
 
